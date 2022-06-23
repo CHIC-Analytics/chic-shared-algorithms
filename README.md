@@ -3,9 +3,13 @@
 
 ## Data quality algorithms
 
-* [Outlier detection](https://github.com/dimagi/outlier-detect) managed by Dimagi - Surprise scores at the frontline worker-question prompt level based on peer response. Built on work from [Benjamin Birnbaum's](https://bbirnbaum.com/) thesis work.
+| Algorithm | Maintainer | Descrption | License |
+| :-------- | :--------: | :--------- | ------: |
+| [Outlier detection](https://github.com/dimagi/outlier-detect) | Dimagi | Surprise scores at the frontline worker-question prompt level based on peer response. Built on work from [Benjamin Birnbaum's](https://bbirnbaum.com/) thesis work. | Apache 2.0 |
 
 ## Inclusion Requirements
+
+_Work in progress_
 
 Algorithms need to meet some specific criteria to be considered, including:
 
