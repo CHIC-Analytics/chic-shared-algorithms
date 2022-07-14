@@ -3,9 +3,10 @@
 
 ## Data quality algorithms
 
-| Algorithm | Maintainer | Descrption | License |
+| Algorithm | Maintainer | Description | License |
 | :-------- | :--------: | :--------- | ------: |
 | [Outlier detection](https://github.com/dimagi/outlier-detect) | Dimagi | Surprise scores at the frontline worker-question prompt level based on peer response. Built on work from [Benjamin Birnbaum's](https://bbirnbaum.com/) thesis work. | Apache 2.0 |
+| [Time series outlier detection](https://github.com/medic/chic-ts-outlierdetect) | Medic | Time series anomaly detection as predicted by time series forecasting models for weekly/monthly data  | Apache 2.0 |
 
 ## Inclusion Requirements
 
